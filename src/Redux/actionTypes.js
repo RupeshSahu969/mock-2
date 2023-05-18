@@ -1,0 +1,23 @@
+// action Types
+
+export const GET_REQUEST="GET_REQUEST";
+
+export const GET_SUCCESS="GET_SUCCESS";
+
+export const GET_FAILURE="GET_FAILURE";
+
+export const GET_PRODUCT_REQUEST="GET_PRODUCT_REQUEST";
+
+export const GET_PRODUCT_SUCCESS="GET_PRODUCT_SUCCESS";
+
+export const GET_PRODUCT_FAILURE="GET_PRODUCT_FAILURE";
+
+export const SEARCH_REQUEST="SEARCH_REQUEST";
+
+export const SEARCH_SUCESS="SEARCH_SUCESS";
+
+export const SEARCH_FAILURE="SEARCH_FAILURE";
+
+
+
+

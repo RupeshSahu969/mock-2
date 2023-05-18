@@ -1,0 +1,11 @@
+#navbar-container{
+
+display:flex;
+grid-gap:10px;
+justify-content: space-around;
+
+background-color: white;
+color: rgb(56, 66, 209);
+height: 50px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
